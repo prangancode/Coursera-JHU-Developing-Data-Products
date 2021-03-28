@@ -1,7 +1,7 @@
 ---
 title: "Analysis of the mtcars Dataset"
-author: "Ugur Arslan"
-date: "18.13.2021"
+author: "PRANGAN SEN"
+date: "28.13.2021"
 output:
   slidy_presentation: default
   html_document:
